@@ -1,11 +1,11 @@
-# [](#header-1)SimpleHeal
+# SimpleHeal
 [![zurück](https://lanehd.github.io/arrow-back-icon.png)](../ "Klicke hier um zurückzugehen")
 
 SimpleHeal ist ein Heil-Plugin, das von mir geschrieben ist!
 Du kannst es benutzen, um dich oder einen anderen Spieler zu heilen oder füttern!
 
 
-## [](#header-6)Befehle und Berechtigungen
+## Befehle und Berechtigungen
 
 | Verwendung      | Berechtigung           | Beschreibung                                                               |
 |:----------------|:-----------------------|:---------------------------------------------------------------------------|
@@ -19,4 +19,10 @@ Du kannst es benutzen, um dich oder einen anderen Spieler zu heilen oder fütter
 
 [Quellcode](source)
 
-# [](#header-2)[Download (25,6 KB)](SimpleHeal.jar)
+# [Download (25,6 KB)](SimpleHeal.jar)
+
+### TODO
+
+- Konfigurationsdateien erstellen lernen
+   - Eine Konfigurationsdatei erstellen, um AutoUpdate™ und die Commands an/auszuschalten
+      - Die neue Version hochladen
